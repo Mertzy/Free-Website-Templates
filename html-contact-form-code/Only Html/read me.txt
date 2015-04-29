@@ -1,0 +1,1 @@
+The "html.html" file is an example of a simple HTML contact form. To have a fully functional HTML contact form, please download the "simple-html-contact-form.html" located in the "Html + PHP" folder.
