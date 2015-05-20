@@ -13,13 +13,22 @@ Template Name : Type of Page/Template
 AdminLTE : Admin Panel
 
 
+Alpha : Full site.
+
+
 Andia : Agency/Portfolio
+
+
+Design Template : Full Site
 
 
 Escape Velocity : One Page
 
 
 eShopper : eCommerce 
+
+
+Fashion Blog : Full Blog Site
 
 
 Grayscale : One Page
@@ -38,6 +47,9 @@ Magnetic : Photography
 
 
 Mamba : One Page
+
+
+Mobile Cloud : App One Page
 
 
 Moderna : Business 
@@ -59,6 +71,8 @@ SB Admin 2 : Admin Panel
 
 
 Shop Homepage : eCommerce
+
+Spectral : Full site
 
 
 Sporthere : Sports Business
